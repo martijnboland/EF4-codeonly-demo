@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ef4Poco", "Ef4Poco\Ef4Poco.csproj", "{E0A87D54-96AA-4A41-A1AF-428E6B9B4438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ef4Poco.IntegrationTests", "Ef4Poco.IntegrationTests\Ef4Poco.IntegrationTests.csproj", "{1E39AFF5-33EB-470F-8104-740AE53425E7}"
+EndProject
+Project("{00000000-0000-0000-0000-000000000000}") = "Ef4Poco.Mvc", "Ef4Poco.Mvc\Ef4Poco.Mvc.csproj", "{1F2ED41F-3A26-4398-8F62-3A5A82ABE0D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0A87D54-96AA-4A41-A1AF-428E6B9B4438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A87D54-96AA-4A41-A1AF-428E6B9B4438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A87D54-96AA-4A41-A1AF-428E6B9B4438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A87D54-96AA-4A41-A1AF-428E6B9B4438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E39AFF5-33EB-470F-8104-740AE53425E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E39AFF5-33EB-470F-8104-740AE53425E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E39AFF5-33EB-470F-8104-740AE53425E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E39AFF5-33EB-470F-8104-740AE53425E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2ED41F-3A26-4398-8F62-3A5A82ABE0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2ED41F-3A26-4398-8F62-3A5A82ABE0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2ED41F-3A26-4398-8F62-3A5A82ABE0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2ED41F-3A26-4398-8F62-3A5A82ABE0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
