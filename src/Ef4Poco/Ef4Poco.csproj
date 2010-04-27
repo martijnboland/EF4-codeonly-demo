@@ -33,7 +33,7 @@
   <ItemGroup>
     <Reference Include="Microsoft.Data.Entity.CTP, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Microsoft ADO.NET Entity Framework Feature CTP2\Binaries\Microsoft.Data.Entity.CTP.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft ADO.NET Entity Framework Feature CTP3\Binaries\Microsoft.Data.Entity.CTP.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Activities.Core.Presentation" />
